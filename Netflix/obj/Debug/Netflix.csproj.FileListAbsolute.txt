@@ -1,0 +1,6 @@
+c:\users\t4ng1\documents\visual studio 2015\Projects\Netflix\Netflix\bin\Debug\Netflix.exe.config
+c:\users\t4ng1\documents\visual studio 2015\Projects\Netflix\Netflix\bin\Debug\Netflix.exe
+c:\users\t4ng1\documents\visual studio 2015\Projects\Netflix\Netflix\bin\Debug\Netflix.pdb
+c:\users\t4ng1\documents\visual studio 2015\Projects\Netflix\Netflix\obj\Debug\Netflix.csprojResolveAssemblyReference.cache
+c:\users\t4ng1\documents\visual studio 2015\Projects\Netflix\Netflix\obj\Debug\Netflix.exe
+c:\users\t4ng1\documents\visual studio 2015\Projects\Netflix\Netflix\obj\Debug\Netflix.pdb
